@@ -10,10 +10,14 @@ AI-powered chatbot built with Anthropic (Claude API Key).
 - One-click clear chat
 
 ## Tech Stack
-- Google Gemini 1.5 Flash API
+- Anthropic API
 - Streamlit
 - Python
 
 ## Run locally
 pip install -r requirements.txt
 streamlit run app.py
+
+## Live Demo URL
+https://gpt-clone-s3hqqy7dxukrt9qyamppv7.streamlit.app
+
